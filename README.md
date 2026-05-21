@@ -49,5 +49,5 @@ Backend project using Java and JDBC.
 ---
 
 ## Connect With Me
-- GitHub: https://github.com/balamurugan-dev-27
+- GitHub: [link](https://github.com/balamurugan-dev-27)
 - LinkedIn: [link](https://www.linkedin.com/in/balamurugan-m-6b404a409/?skipRedirect=true)
