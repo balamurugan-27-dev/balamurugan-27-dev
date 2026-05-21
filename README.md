@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-````java`
+  
+```java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); // Prints text to the console
     }
 }
-````
+```
+
