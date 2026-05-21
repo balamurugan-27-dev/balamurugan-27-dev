@@ -1,24 +1,53 @@
-## Hi there 👋
+# Hi there 👋 I'm Balamurugan
 
+## About Me
+- 🎓 Bachelor Degree in Computer Science with Cognitive Systems
+- 💻 Backend Developer Enthusiast
+- 🌱 Currently learning Spring Boot
+- 🔧 Skilled in Java, MySQL, and JDBC
+- 🚀 Interested in building scalable backend applications
 
-**balamurugan-27-dev/balamurugan-27-dev** 
+---
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); // Prints text to the console
-    }
-}
-```
+### Languages & Technologies
+- Java
+- MySQL
+- JDBC
+- data
+- Spring Boot (Learning)
 
+### Tools
+- Git
+- GitHub
+- IntelliJ IDEA / VS Code
+- Postman
+
+---
+
+## Current Goals
+- Learn Spring Boot deeply
+- Build REST APIs
+- Create full backend projects
+- Improve Data Structures & Algorithms
+
+---
+
+## Projects
+### Stock Broker App
+Backend project using Java and JDBC.
+
+### More Projects Coming Soon 🚀
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?balamurugan-dev-27&show_icons=true)
+
+---
+
+## Connect With Me
+- GitHub: https://github.com/balamurugan-dev-27
+- LinkedIn: [link](https://www.linkedin.com/in/balamurugan-m-6b404a409/?skipRedirect=true)
