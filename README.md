@@ -44,7 +44,7 @@ Backend application developed using Java, JDBC, and MySQL.
 - Add and maintain account balance
 - Track stock transactions
 - Store user and stock data using MySQL
-- 🔗[view repository](https://github.com/balamurugan-27-dev/StockBroker-App)
+- 🔗 [view repository](https://github.com/balamurugan-27-dev/StockBroker-App)
 
 ---
 
@@ -55,7 +55,7 @@ Console-based bus booking system developed using Java, JDBC, and MySQL.
 - Search available buses
 - Select travel date and book tickets
 - Prevent booking when bus is full
-- 🔗[view repository](https://github.com/balamurugan-27-dev/BusReservation-App)
+- 🔗 [view repository](https://github.com/balamurugan-27-dev/BusReservation-App)
 
 ---
 
