@@ -39,6 +39,9 @@
 ### Stock Broker App
 Backend project using Java and JDBC.
 
+### Bus Reservation App
+Backend project using Java and JDBC.
+
 ### More Projects Coming Soon 🚀
 
 ---
