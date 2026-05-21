@@ -11,12 +11,12 @@
 
 ## Tech Stack
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-- ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Tools
 
@@ -34,21 +34,37 @@
 - Improve Data Structures & Algorithms
 
 ---
-
 ## Projects
+
 ### Stock Broker App
-Backend project using Java and JDBC.
+Backend application developed using Java, JDBC, and MySQL.
+
+#### Features
+- Buy and sell stocks
+- Manage user portfolio
+- Add and maintain account balance
+- Track stock transactions
+- Store user and stock data using MySQL
+
+---
 
 ### Bus Reservation App
-Backend project using Java and JDBC.
+Console-based bus booking system developed using Java, JDBC, and MySQL.
+
+#### Features
+- Search available buses
+- Select travel date and book tickets
+- Prevent booking when bus is full
+  
+
+---
 
 ### More Projects Coming Soon 🚀
-
 ---
 
 
 ## Connect With Me
-## Connect With Me
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balamurugan-27-dev)
 
