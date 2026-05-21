@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Balamurugan
 
 ## About Me
-- 🎓 Bachelor Degree in Computer Science with Cognitive Systems
+- 🎓 Bachelor's Degree in Computer Science with Cognitive Systems
 - 💻 Backend Developer Enthusiast
 - 🌱 Currently learning Spring Boot
 - 🔧 Skilled in Java, MySQL, and JDBC
@@ -43,6 +43,7 @@ Backend application developed using Java, JDBC, and MySQL.
 - Add and maintain account balance
 - Track stock transactions
 - Store user and stock data using MySQL
+🔗[view repository](https://github.com/balamurugan-27-dev/StockBroker-App)
 
 ---
 
@@ -53,7 +54,7 @@ Console-based bus booking system developed using Java, JDBC, and MySQL.
 - Search available buses
 - Select travel date and book tickets
 - Prevent booking when bus is full
-  
+🔗[view repository](https://github.com/balamurugan-27-dev/BusReservation-App)
 
 ---
 
