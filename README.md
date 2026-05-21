@@ -44,7 +44,7 @@ Backend project using Java and JDBC.
 
 ## GitHub Stats
 
-![Balamurugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=balamurugan-27-dev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balamurugan-27-dev&show_icons=true&theme=radical&cache_seconds=1800)
 ---
 
 ## Connect With Me
