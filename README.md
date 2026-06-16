@@ -3,8 +3,7 @@
 ## About Me
 - 🎓 Bachelor's Degree in Computer Science with Cognitive Systems
 - 💻 Backend Developer Enthusiast
-- 🌱 Currently learning Spring Boot
-- 🔧 Skilled in Java, MySQL, and JDBC
+- 🔧 Skilled in Java, MySQL, Spring , Spring Boot , Spring Security ,Hibernate and JDBC
 - 🚀 Interested in building scalable backend applications
 
 ---
